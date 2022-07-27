@@ -17,7 +17,7 @@ h1{
     font-weight: 800;
 }
 #btn-white{
-    border: 2px solid #ffffff;
+    border: 2px solid #000000;
     border-radius: 2rem;
     color: #ffffff;
     font-weight: 700;
@@ -27,9 +27,9 @@ h1{
     padding-right: 2rem;
 }
 #btn-white:hover{
-    background-color:#ffffff;
+    background-color:#000000;
     color:var(--main-color) ;
-    border:2px solid #ffffff;
+    border:2px solid #000000;
 }
 
 /*========SECTION TITLE=========*/
