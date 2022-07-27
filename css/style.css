@@ -25,6 +25,15 @@ h1{
     font-size: 1rem;
     padding-left: 2rem;
     padding-right: 2rem;
+    width: 33.33%;
+  background-color: orange;
+}
+
+div.center {
+  text-align: center;
+}
+
+button {}
 }
 #btn-white:hover{
     background-color:#000000;
