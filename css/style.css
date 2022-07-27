@@ -44,7 +44,7 @@ button {}
 /*========SECTION TITLE=========*/
 
 .section-title{
-    position: center;
+    position: relative;
 }
 .section-title-heading{
     color: var( --section-title-color);
